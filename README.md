@@ -72,7 +72,3 @@ yarn start
 ```
 
 The website will be available at `http://localhost:3000`.
-
-## Contributing
-
-Contributions are welcome! Please fork the repository and create a pull request with your changes.
