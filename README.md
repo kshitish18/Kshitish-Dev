@@ -36,7 +36,7 @@ Make sure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/talhashah-dev/portfolio.git
+   git clone https://github.com/kshitish18/My-Portfolio.git 
    ```
 
 2. Navigate to the project directory:
