@@ -1,5 +1,5 @@
 import React from "react";
-import { FaGithub, FaLinkedin, FaStackOverflow } from "react-icons/fa";
+import { FaGithub, FaLinkedin } from "react-icons/fa";
 
 function Contact(){
   return (
@@ -9,16 +9,13 @@ function Contact(){
           DISCUSS A PROJECT OR JUST WANT TO SAY HI? MY INBOX IS OPEN FOR ALL.
         </p>
         <a href="tel:+919090753565" className="text-gray-400 text-2xl hover:text-white">+91-9090753565</a>
-        <a href="mailto:syedtalhadev7@gmail.com" className="text-gray-400 text-2xl hover:text-white">kshitish18th@gmail.com</a>
+        <a href="mailto:kshitish18th@gmail.com" className="text-gray-400 text-2xl hover:text-white">kshitish18th@gmail.com</a>
         <div className="flex justify-center gap-5 mt-10">
           <a href="https://github.com/kshitish18" target="_blank" className="text-4xl cursor-pointer " rel="noreferrer" >
             <FaGithub />
           </a>
           <a href="https://www.linkedin.com/in/kshitish18th/" target="_blank" className="text-4xl cursor-pointer " rel="noreferrer" >
             <FaLinkedin />
-          </a>
-          <a href="https://stackoverflow.com/users/23691689/talha-shah" target="_blank" className="text-4xl cursor-pointer " rel="noreferrer" >
-            <FaStackOverflow />
           </a>
         </div>
       </div>

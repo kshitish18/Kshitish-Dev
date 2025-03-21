@@ -1,6 +1,6 @@
 import React from "react";
 // import coding_gif from "../assets/images/coding.gif"
-import Logo from "../assets/images/picofme-logo.png"
+import Logo from "../assets/images/picofme-11.png"
 
 function About() {
   return (

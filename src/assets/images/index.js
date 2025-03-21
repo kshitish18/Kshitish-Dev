@@ -17,7 +17,7 @@ import Shop_Hub from "./shophub-app.png";
 import Tailwind_Logo from "./tailwind-logo.svg";
 import Mysql_Logo from "./mysql-logo.png";
 import Django_Logo from "./django-logo.png";
-import Logo from "./logo.png";
+import Logo from "./picofme-10.png";
 
 // Certificates
 import Design_Certificate from "./design-cert.png";
